@@ -3,7 +3,7 @@ I use mentor frontend to practice my html and css skills. This website is used t
 The good thing about Frontend Mentor is that it is divided into difficulties from newbie to guru. For those who are just starting out or want to practice the basics or for those who want to improve/create real projects
 
 ### Link
-***Difficulty: NEWBIE*** - Live Site URL: [QR-site](qr-site-frontendmentor.netlify.app)
+***Difficulty: "NEWBIE"*** - Live Site URL: [QR-site](qr-site-frontendmentor.netlify.app)
 
 ### Built with
 
